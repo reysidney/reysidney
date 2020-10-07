@@ -1,6 +1,8 @@
  ### Hi there 👋
 I am Sid Carredo, a Sr. Solutions Developer in Navagis.
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=reysidney&show_icons=true) 
+
 Technologies used so far:
 |Frontend | Backend |
 |:-------:|:-------:|
