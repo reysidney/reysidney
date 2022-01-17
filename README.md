@@ -1,8 +1,7 @@
   ### Hi there 👋
 
   #### I am Sid Carredo, a Full Stack Web Applications Developer.
-
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=reysidney&show_icons=true) 
+  
 
   #### Technologies in the industry used so far:
 
